@@ -74,33 +74,39 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This package assumes using Python 3.x
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Before you continue, ensure you have met the following requirements:
+
+* You have already install Visuall Studio C++
+* You have installed the latest version of OpenCV, Cmake, Dlib and Numpy(Numpy and OpenCV have to share the same version).
+* Linux, Mac OS or Windows are all currently supported.
+
+The easiest way to install it is using either pip or conda:
+
+| **Using pip**                | **Using conda**                            |
+|------------------------------|--------------------------------------------|
+| `pip install ...` | `conda install -c ...` |
+|                              |                                            |
+
 ```sh
-npm install npm@latest -g
+pip install opencv-python
+```
+```sh
+pip install cmake
+```
+```sh
+pip install dlib
 ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+####Get the face Comparision With Emoji source code
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/hauchieu/PythonProject.git
 ```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
-
 
 
 <!-- USAGE EXAMPLES -->
