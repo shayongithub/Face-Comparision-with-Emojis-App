@@ -20,7 +20,7 @@ a project of A-Team
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="poop.jpg" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">FACE COMPARISION WITH EMOJI</h3>
@@ -148,10 +148,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+For more info, contact Đạt (Leader) - email: dat.nguyen190401@vnuk.edu.vn
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Project Link: [https://github.com/hauchieu/PythonProject]
 
 
 <!-- ACKNOWLEDGEMENTS -->
