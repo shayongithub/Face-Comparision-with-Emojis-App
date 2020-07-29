@@ -113,7 +113,7 @@ git clone https://github.com/hauchieu/PythonProject.git
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-img src="thu.png" alt="" width="80" height="80"
+![alt text](https://github.com/hauchieu/PythonProject/blob/master/thu.png?raw=true)
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
