@@ -118,7 +118,7 @@ git clone https://github.com/hauchieu/PythonProject.git
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-This is the video slideshow screen recorded
+This is the screen when you select to record video (you can enter Y for Yes or N for No).
 <p align="center">
   <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/record.png" width="400" height="200">
 </p>
@@ -149,7 +149,7 @@ Blink face sticker
   <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/blink.png" width="400" height="200">
 </p>
 
-
+This is the video slideshow screen recorded.
 <p align="center">
   <img src="https://github.com/hauchieu/PythonProject/blob/5683e182fb405a82fa61160d09f4bf755c6fb78f/usagee/show.png" width="400" height="200">
 </p>
