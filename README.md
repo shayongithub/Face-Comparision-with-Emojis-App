@@ -117,29 +117,38 @@ git clone https://github.com/hauchieu/PythonProject.git
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+This is the video slideshow screen recorded
 <p align="center">
   <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/record.png" width="400" height="200">
 </p>
 
+All the pictures below are screenshots when playing a game, players will create facial expressions similar to stickers displayed on the game frame.
+Surprise face sticker with mouth wide and eyes closed.
 <p align="center">
   <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/surprise.png" width="400" height="200">
 </p>
 
+Smiley face sticker
 <p align="center">
   <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/smile.png" width="400" height="200">
 </p>
 
+Sad face sticker
 <p align="center">
   <img src="https://github.com/hauchieu/PythonProject/blob/5683e182fb405a82fa61160d09f4bf755c6fb78f/usagee/sad.png" width="400" height="200">
 </p>
 
+Neutral face sticker
 <p align="center">
   <img src="https://github.com/hauchieu/PythonProject/blob/5683e182fb405a82fa61160d09f4bf755c6fb78f/usagee/neutral.png" width="400" height="200">
 </p>
 
+Blink face sticker
 <p align="center">
   <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/blink.png" width="400" height="200">
 </p>
+
 
 <p align="center">
   <img src="https://github.com/hauchieu/PythonProject/blob/5683e182fb405a82fa61160d09f4bf755c6fb78f/usagee/show.png" width="400" height="200">
