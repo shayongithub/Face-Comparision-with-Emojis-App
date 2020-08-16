@@ -161,6 +161,13 @@ For more info, contact Đạt (Leader) - email: dat.nguyen190401@vnuk.edu.vn
 
 Project Link: [https://github.com/hauchieu/PythonProject]
 
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Drowsiness detection with OpenCV](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
+* [Face landmarks detection](https://youtu.be/MrRGVOhARYY)
+* [How to Record Video in OpenCV](https://www.codingforentrepreneurs.com/blog/how-to-record-video-in-opencv-python)
+* [How to show videos frame by frame](https://stackoverflow.com/questions/54307228/how-to-show-videos-frame-by-frame-with-key-presses-with-python-cv2)
+* [How To Use Break, Continue, and Pass Statements](https://www.digitalocean.com/community/tutorials/how-to-use-break-continue-and-pass-statements-when-working-with-loops-in-python-3)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
