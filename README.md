@@ -136,17 +136,17 @@ Smiley face sticker
 
 Sad face sticker
 <p align="center">
-  <img src="https://github.com/hauchieu/PythonProject/blob/5683e182fb405a82fa61160d09f4bf755c6fb78f/usagee/sad.png" width="400" height="200">
+  <img src="https://github.com/hauchieu/PythonProject/blob/5683e182fb405a82fa61160d09f4bf755c6fb78f/usagee/sad_edit.png" width="400" height="200">
 </p>
 
 Neutral face sticker
 <p align="center">
-  <img src="https://github.com/hauchieu/PythonProject/blob/5683e182fb405a82fa61160d09f4bf755c6fb78f/usagee/neutral.png" width="400" height="200">
+  <img src="https://github.com/hauchieu/PythonProject/blob/5683e182fb405a82fa61160d09f4bf755c6fb78f/usagee/neutral_edit.png" width="400" height="200">
 </p>
 
 Blink face sticker
 <p align="center">
-  <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/blink.png" width="400" height="200">
+  <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/blink_edit.png" width="400" height="200">
 </p>
 
 This is the video slideshow screen recorded.
