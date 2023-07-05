@@ -108,18 +108,18 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 This is the screen when you select to record video (you can enter Y for Yes or N for No).
 <p align="center">
-  <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/record.png" width="400" height="200">
+  <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/record.png" width="643" height="510">
 </p>
 
 All the pictures below are screenshots when playing a game, players will create facial expressions similar to stickers displayed on the game frame.
 Surprise face sticker with mouth wide and eyes closed.
 <p align="center">
-  <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/surprise.png" width="400" height="200">
+  <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/surprise.png" width="643" height="510">
 </p>
 
 Smiley face sticker
 <p align="center">
-  <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/smile.png" width="400" height="200">
+  <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/smile.png" width="643" height="510">
 </p>
 
 Sad face sticker
@@ -129,17 +129,16 @@ Sad face sticker
 
 Neutral face sticker
 <p align="center">
-  <img src="https://github.com/shayongithub/Face-Comparision-with-Emojis-App/blob/master/usagee/neutral_edit.png" width="400" height="200">
+  <img src="https://github.com/shayongithub/Face-Comparision-with-Emojis-App/blob/master/usagee/neutral_edit.png" width="643" height="510">
 </p>
 
 Blink face sticker
 <p align="center">
-  <img src="https://github.com/shayongithub/Face-Comparision-with-Emojis-App/blob/master/usagee/blink_edit.png" width="400" height="200">
-</p>
+  <img src="https://github.com/shayongithub/Face-Comparision-with-Emojis-App/blob/master/usagee/blink_edit.png" width="643" height="510
 
 This is the video slideshow screen recorded.
 <p align="center">
-  <img src="https://github.com/hauchieu/PythonProject/blob/5683e182fb405a82fa61160d09f4bf755c6fb78f/usagee/show.png" width="400" height="200">
+  <img src="https://github.com/hauchieu/PythonProject/blob/5683e182fb405a82fa61160d09f4bf755c6fb78f/usagee/show.png" width="643" height="510">
 </p>
 
 <!-- CONTACT -->
