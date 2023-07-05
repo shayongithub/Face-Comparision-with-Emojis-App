@@ -40,12 +40,7 @@ a project of A-Team
   * [Installation](#installation)
 * [Usage](#usage)
 
-
-
 * [Contact](#contact)
-
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -55,17 +50,10 @@ a project of A-Team
 We create an app which gives an EMOJI, then identifies the face expression of the users and finally compare if the face expression is similar with the emoji . 
 
 Here's why:
-*Highly entertaining, players can practice facial muscles.
-*High interaction between the game and the player.
-*Apply in practice the learned knowledge (image recognition).
-*Try to solve challenges.
-Function :
-cv2.CascadeClassifier('.xml') 
->>> identify the face 
-
-dlib.get_frontal_face_detector() 
-dlib.shape_predictor("shape_predictor_68_face_landmarks.dat") 
->>> identify the landmark
+- Highly entertaining, players can practice facial muscles.
+- High interaction between the game and the player.
+- Apply in practice the learned knowledge (image recognition).
+- Try to solve challenges.
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -136,17 +124,17 @@ Smiley face sticker
 
 Sad face sticker
 <p align="center">
-  <img src="https://github.com/hauchieu/PythonProject/blob/5683e182fb405a82fa61160d09f4bf755c6fb78f/usagee/sad_edit.png" width="400" height="200">
+  <img src="https://github.com/shayongithub/Face-Comparision-with-Emojis-App/blob/master/usagee/sad_edit.png" width="643" height="510">
 </p>
 
 Neutral face sticker
 <p align="center">
-  <img src="https://github.com/hauchieu/PythonProject/blob/5683e182fb405a82fa61160d09f4bf755c6fb78f/usagee/neutral_edit.png" width="400" height="200">
+  <img src="https://github.com/shayongithub/Face-Comparision-with-Emojis-App/blob/master/usagee/neutral_edit.png" width="400" height="200">
 </p>
 
 Blink face sticker
 <p align="center">
-  <img src="https://github.com/hauchieu/PythonProject/blob/master/usagee/blink_edit.png" width="400" height="200">
+  <img src="https://github.com/shayongithub/Face-Comparision-with-Emojis-App/blob/master/usagee/blink_edit.png" width="400" height="200">
 </p>
 
 This is the video slideshow screen recorded.
